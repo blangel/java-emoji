@@ -1,0 +1,6 @@
+*.iml
+*.ipr
+*.iws
+target/
+*~
+src/test/java/net/ocheyedan/Ingester.java
