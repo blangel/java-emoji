@@ -431,7 +431,7 @@ public enum Emoji {
     Leo("\u264C"),
     Leopard("\uD83D\uDC06", Characteristic.Animal),
     Libra("\u264E"),
-    LightRail("\uD83D\uDE88", Characteristic.Animal),
+    LightRail("\uD83D\uDE88", Characteristic.Machine),
     Link("\uD83D\uDD17"),
     Lips("\uD83D\uDC44"),
     Lipstick("\uD83D\uDC84"),
